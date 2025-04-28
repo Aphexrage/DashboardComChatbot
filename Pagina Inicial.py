@@ -43,7 +43,7 @@ mesesDisponiveis = [mes for mes in mesesOrdenados if mes in df["Month"].unique()
 
 st.sidebar.image("./assets/unileverIcon.png")
 
-st.logo('./assets/UnileverIcon.png')
+st.logo('./assets/unileverIcon.png')
 
 st.markdown(
     """
