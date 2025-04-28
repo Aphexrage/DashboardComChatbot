@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+langchain
+langchain_groq
+streamlit_option_menu
