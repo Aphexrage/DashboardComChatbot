@@ -1,0 +1,22 @@
+Data maior: 2025-03-10 00:00:00
+Data menor: 2015-03-11 00:00:00
+Total volume: $4,516,468,243.00
+Media do volume: $1,795,812.42
+Media do volume por ano:
+Year
+2015    $1,061,483.00
+2016    $1,453,023.06
+2017    $1,625,218.91
+2018    $1,051,454.09
+2019      $839,799.53
+2020    $1,389,211.47
+2021    $2,059,384.52
+2022    $3,573,891.85
+2023    $2,052,970.88
+2024    $2,568,168.58
+2025    $2,672,512.69
+Name: Volume, dtype: object
+Volume maximo: $38,023,410.00
+Volume minimo: $320,031.00
+Ano do volume maximo: 2022
+Ano do volume minimo: 2019
