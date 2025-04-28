@@ -23,7 +23,7 @@ hide_st_style = """
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
 # Api key:
-api_key = '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'
+api_key = st.secrets["api_keys"]["GROQ_API_KEY"]
 
 os.environ['GROQ_API_KEY'] = api_key
 
