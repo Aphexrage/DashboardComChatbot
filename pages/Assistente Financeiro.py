@@ -90,7 +90,7 @@ st.markdown(
 
 st.sidebar.image('./assets/botIcon.png')
 
-st.logo('./assets/UnileverIcon.png')
+st.logo('./assets/unileverIcon.png')
 
 st.subheader("Seja bem-vindo(a) ao Gusta, seu Assistente Financeiro:")
 
