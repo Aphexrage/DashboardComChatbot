@@ -1,4 +1,4 @@
-# Dashboard com Assistente Finaceiro:
+# Dashboard com Assistente Financeiro:
 
 ![Dashboard - Unilever UL](https://media.licdn.com/dms/image/v2/D4D2DAQFKB-dQXGKZbQ/profile-treasury-image-shrink_800_800/B4DZZu97yEH4AY-/0/1745618452420?e=1746507600&v=beta&t=JrbEUOx3ejUNt8Ykd43jklWbqpmkL_bvOAu1e7EVsCQ)
 
