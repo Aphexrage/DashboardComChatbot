@@ -1,5 +1,7 @@
 # Dashboard com Assistente Finaceiro:
 
+![Dashboard - Unilever UL](https://media.licdn.com/dms/image/v2/D4D2DAQFKB-dQXGKZbQ/profile-treasury-image-shrink_800_800/B4DZZu97yEH4AY-/0/1745618452420?e=1746507600&v=beta&t=JrbEUOx3ejUNt8Ykd43jklWbqpmkL_bvOAu1e7EVsCQ)
+
 [![Abrir no Streamlit](https://img.shields.io/badge/Ver%20App%20no%20Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://gustavomendesdashboardcomchatbot.streamlit.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/gustavo-mendes-117767250_python-datascience-dashboard-activity-7321650580085440512-SD6H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4MaeMB1MovHnNZjlcKuPB4IugALRD-7JA)
 
