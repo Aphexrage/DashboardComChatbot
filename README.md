@@ -1,6 +1,7 @@
 # Dashboard com Assistente Finaceiro:
 
-Clique aqui para acessar: https://gustavomendesdashboardcomchatbot.streamlit.app
+[![Abrir no Streamlit](https://img.shields.io/badge/Ver%20App%20no%20Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://gustavomendesdashboardcomchatbot.streamlit.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/gustavo-mendes-117767250_python-datascience-dashboard-activity-7321650580085440512-SD6H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4MaeMB1MovHnNZjlcKuPB4IugALRD-7JA)
 
 Este projeto consiste em um dashboard interativo desenvolvido em Python com Streamlit e Plotly, que apresenta a análise de ações da Unilever (UL) na bolsa NASDAQ.
 Além dos gráficos tradicionais de preço de fechamento e volume negociado por mês, o projeto integra um assistente virtual baseado em IA que interpreta os dados apresentados e explica conceitos financeiros relacionados, como KPIs, movimentações de mercado e estratégias de análise.
@@ -33,6 +34,3 @@ Dashboard Interativo:
 - Interface intuitiva para públicos técnicos e não técnicos.
 
 - Explicações contextualizadas para auxiliar na tomada de decisão.
-
-
-Acompanhe pelo linkedin: https://www.linkedin.com/posts/gustavo-mendes-117767250_python-datascience-dashboard-activity-7321650580085440512-SD6H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4MaeMB1MovHnNZjlcKuPB4IugALRD-7JA
