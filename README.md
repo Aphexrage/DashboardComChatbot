@@ -10,7 +10,7 @@
 
 <p align="center">
   <img 
-    src="https://gustavomendesdashboardcomchatbot.streamlit.app/~/+/media/3846bd13ba791614430769a396cd825c1bdff4aaa6da579ce1d0ab34.png" 
+    src="https://neve.studio/wp-content/uploads/unilever-2-logo-png-transparent.png" 
     alt="Dashboard - Unilever UL" 
     width="250px"
   />
