@@ -27,7 +27,7 @@
 
 ---
 
-## 📊 Projeto: Dashboard Interativo com IA – Unilever (UL)
+## 📊 Projeto: Dashboard Interativo com Assistente Virtual
 
 Este projeto consiste em um dashboard interativo desenvolvido em **Python com Streamlit e Plotly**, que apresenta a análise de ações da Unilever (UL) na bolsa NASDAQ.
 
