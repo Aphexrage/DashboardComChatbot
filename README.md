@@ -31,7 +31,7 @@
 
 Este projeto consiste em um dashboard interativo desenvolvido em **Python com Streamlit e Plotly**, que apresenta a análise de ações da Unilever (UL) na bolsa NASDAQ.
 
-Além dos gráficos tradicionais de preço de fechamento e volume negociado por mês, o projeto integra um **assistente virtual baseado feito com Llama3 e treinado com os temas**, que interpreta os dados apresentados e explica conceitos financeiros relacionados.
+Além dos gráficos tradicionais de preço de fechamento e volume negociado por mês, o projeto integra um **assistente virtual (Llama3 treinado com os temas)**, que interpreta os dados apresentados e explica conceitos financeiros relacionados.
 
 ### 🎯 Objetivo
 
