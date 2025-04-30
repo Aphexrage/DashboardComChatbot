@@ -10,7 +10,7 @@
 
 <p align="center">
   <img 
-    src="./assets/botIcon.png" 
+    src="https://gustavomendesdashboardcomchatbot.streamlit.app/~/+/media/3846bd13ba791614430769a396cd825c1bdff4aaa6da579ce1d0ab34.png" 
     alt="Dashboard - Unilever UL" 
     width="250px"
   />
