@@ -7,7 +7,7 @@ from streamlit_option_menu import option_menu
 # Config da page
 st.set_page_config(
     page_title="Unilever - NASDAQ",
-    page_icon="./assets/download.jpg",
+    page_icon="./assets/pageicon.png",
     layout="wide",  
     initial_sidebar_state="expanded",
 )
@@ -41,31 +41,9 @@ mesesOrdenados = ["January", "February", "March", "April", "May", "June",
 
 mesesDisponiveis = [mes for mes in mesesOrdenados if mes in df["Month"].unique()]
 
-st.sidebar.image("./assets/unileverIcon.png")
+st.sidebar.image("./assets/logodash.png")
 
-st.logo('./assets/unileverIcon.png')
-
-st.markdown(
-    """
-    <style>
-    .header {
-        background-color: #172133;
-        padding: 10px;
-        color: white;
-        font-size: 34px;
-        font-weight: bold;
-        text-align: center;
-        margin-bottom: 20px;
-        border-radius: 9px;
-    }
-    </style>
-
-    <div class="header">
-        Análise de Ações - Unilever
-    </div>
-    """,
-    unsafe_allow_html=True
-)
+st.logo('./assets/logo2.png')
 
 st.markdown("""
     <style>
