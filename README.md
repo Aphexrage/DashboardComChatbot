@@ -56,24 +56,6 @@ Tornar a leitura de dashboards **acessível para qualquer público**, independen
   - Interface intuitiva para públicos técnicos e não técnicos.
   - Explicações contextualizadas para auxiliar na tomada de decisão.
 
----
-
-<p align="center">
-  <img 
-    src="https://media.licdn.com/dms/image/v2/D4D2DAQFKB-dQXGKZbQ/profile-treasury-image-shrink_800_800/B4DZZu97yEH4AY-/0/1745618452420?e=1746590400&v=beta&t=6BsQCFTC2sSL7KcwPEqPJMKqfZ0uUEJ8vy6WGewaL7w" 
-    alt="Dashboard - Unilever UL" 
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img 
-    src="https://media.licdn.com/dms/image/v2/D4D2DAQEEcRydrTYrfg/profile-treasury-image-shrink_800_800/B4DZZu.AA0GgAY-/0/1745618469496?e=1746590400&v=beta&t=mmV4hZxKY9QvZEbG5HJpeyzit0PvdyHg-ArHgrayI1s" 
-    alt="Dashboard - Unilever UL" 
-  />
-</p>
-
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0077ff&height=80&section=footer"
