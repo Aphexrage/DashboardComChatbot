@@ -1,6 +1,7 @@
 # Imports:
 import os
 import time
+import base64
 import streamlit as st
 from langchain_groq import ChatGroq
 from langchain.prompts import ChatPromptTemplate
@@ -8,8 +9,8 @@ from langchain.prompts import ChatPromptTemplate
 # Config da page:
 st.set_page_config(
     page_title="Assistente de Finanças",
-    page_icon="./assets/bot.png",
-    initial_sidebar_state="expanded",
+    page_icon="./assets/pageiconbot.png",
+    initial_sidebar_state="collapsed",
 )
 
 # Ocultar o header padrao do streamlit:
@@ -65,34 +66,38 @@ def respostaBot(mensagens):
 
 def limparChat():
     st.session_state.chats = []
+    
+def imagemBase64(image_path):
+    with open(image_path, "rb") as f:
+        return base64.b64encode(f.read()).decode()
+    
+icone_base64 = imagemBase64("./assets/icone.png")
 
-st.markdown(
-    """
+st.sidebar.markdown("""
     <style>
-    .header {
-        background-color: #172133;
-        padding: 10px;
+    section[data-testid="stSidebar"] button[kind="secondary"] {
+        background-color: #2c3843;
         color: white;
-        font-size: 34px;
+        border-radius: 8px;
+        font-size: 14px;
         font-weight: bold;
-        text-align: center;
-        margin-bottom: 20px;
-        border-radius: 9px;
+        margin-left: 0;
+    }
+    section[data-testid="stSidebar"] button[kind="secondary"]:hover {
+        background-color: #5489ff;
     }
     </style>
+""", unsafe_allow_html=True)
 
-    <div class="header">
-        Assistente Financeiro - Unilever
+st.markdown(f"""
+    <div style='text-align: center;'>
+        <img src='data:image/png;base64,{icone_base64}' style='height: 80px; width: auto;'/>
+        <h2>Olá Colaborador! Eu sou o soluBOT!</h2>
+        <p>Como posso te ajudar hoje?</p>
     </div>
-    """,
-    unsafe_allow_html=True
-)
+""", unsafe_allow_html=True)
 
-st.sidebar.image('./assets/botIcon.png')
-
-st.logo('./assets/unileverIcon.png')
-
-st.subheader("Seja bem-vindo(a) ao Gusta, seu Assistente Financeiro:")
+st.logo('./assets/logo2.png')
 
 if "chats" not in st.session_state:
     st.session_state.chats = []
