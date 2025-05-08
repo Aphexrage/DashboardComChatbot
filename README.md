@@ -10,9 +10,9 @@
 
 <p align="center">
   <img 
-    src="https://neve.studio/wp-content/uploads/unilever-2-logo-png-transparent.png" 
-    alt="Dashboard - Unilever UL" 
-    width="250px"
+    src="https://github.com/Aphexrage/DashboardComChatbot/blob/main/assets/logo2.png?raw=true" 
+    alt="logo"
+    width="450px"
   />
 </p>
 
